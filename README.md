@@ -1,1 +1,3 @@
-# ROSALIND_Golang
+- ba1a : [Compute the Number of Times a Pattern Appears in a Text](http://rosalind.info/problems/ba1a/)
+- ba1b : [Find the Most Frequent Words in a String](http://rosalind.info/problems/ba1b/)
+- ba1c : [Find the Reverse Complement of a String](http://rosalind.info/problems/ba1c/)
