@@ -1,3 +1,6 @@
 - ba1a : [Compute the Number of Times a Pattern Appears in a Text](http://rosalind.info/problems/ba1a/)
 - ba1b : [Find the Most Frequent Words in a String](http://rosalind.info/problems/ba1b/)
 - ba1c : [Find the Reverse Complement of a String](http://rosalind.info/problems/ba1c/)
+- ba1d : [Find All Occurrences of a Pattern in a String](http://rosalind.info/problems/ba1d/)
+- ba1e : [Find Patterns Forming Clumps in a String](http://rosalind.info/problems/ba1e/)
+- ba1f : [Find a Position in a Genome Minimizing the Skew](http://rosalind.info/problems/ba1f/)
