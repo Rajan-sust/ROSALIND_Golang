@@ -9,7 +9,7 @@ func FindPosition(pattern, text string) (pos []int) {
       pos = append(pos, i)
     }
   }
-  return pos
+  return
 }
 
 func main() {

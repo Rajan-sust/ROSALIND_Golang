@@ -4,3 +4,6 @@
 - ba1d : [Find All Occurrences of a Pattern in a String](http://rosalind.info/problems/ba1d/)
 - ba1e : [Find Patterns Forming Clumps in a String](http://rosalind.info/problems/ba1e/)
 - ba1f : [Find a Position in a Genome Minimizing the Skew](http://rosalind.info/problems/ba1f/)
+- ba1g : [Compute the Hamming Distance Between Two Strings](http://rosalind.info/problems/ba1g/)
+- ba1h : [Find All Approximate Occurrences of a Pattern in a String](http://rosalind.info/problems/ba1h/)
+- ba1i : [Find the Most Frequent Words with Mismatches in a String](http://rosalind.info/problems/ba1i/)
