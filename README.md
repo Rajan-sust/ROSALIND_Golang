@@ -7,3 +7,4 @@
 - ba1g : [Compute the Hamming Distance Between Two Strings](http://rosalind.info/problems/ba1g/)
 - ba1h : [Find All Approximate Occurrences of a Pattern in a String](http://rosalind.info/problems/ba1h/)
 - ba1i : [Find the Most Frequent Words with Mismatches in a String](http://rosalind.info/problems/ba1i/)
+- ba1k : [Generate the Frequency Array of a String](http://rosalind.info/problems/ba1k/)
